@@ -22,10 +22,10 @@
 <div align="center">
 
 ### ⚡ **Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,py,cs" height="45" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,cs" height="45" />
 
 ### 🧩 **Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,dotnet,firebase" height="45" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,dotnet" height="45" />
 
 ### 🗄️ **Databases**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" />
